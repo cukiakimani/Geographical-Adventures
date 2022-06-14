@@ -55,7 +55,7 @@ public class GameCamera : MonoBehaviour
 	}
 
 
-	void LateUpdate()
+	public void ManualUpdate()
 	{
 		if (!GameController.IsState(GameState.Paused))
 		{

@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/YOLO.unity
     guid: 5f19faa779718fe4dbac40676b38f7a8
   - enabled: 1
